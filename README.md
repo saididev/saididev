@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saidi.dev
+- 👋 Hi, I’m @a.saidi
 - 💻 I’m a Front-End Developer
 - 🌱 I’m currently still learning JavaScript
 - 💞️ I’m looking to collaborate on any project that will help me to gain knowledge and experience
